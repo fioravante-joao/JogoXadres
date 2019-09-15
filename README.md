@@ -1,2 +1,2 @@
-# JogoXadresC-
+# JogoXadresC#
 Projeto em C# JogoXadresConsole
